@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=twitter&logoColor=white" alt="WhatsApp Badge"/>
     <img src="https://komarev.com/ghpvc/?username=SeasonLeague&style=flat-square&color=blue" alt=""/>
     <h1>
-  hey there!! I'm is Godspower Maurice
+  Hello World! I'm Godspower Maurice
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
             <h1>
       A resilient Programmer 
