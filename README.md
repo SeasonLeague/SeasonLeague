@@ -34,7 +34,7 @@
 - :telescope: I’m Learning as full time Ethical Hacker and contributing to Securing Networks and web applications.
 - :seedling: Exploring the Tech World.
 - :zap: In my free time, I solve problems on **GeeksforGeeks** and read tech articles.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-godspower-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-godspower-blue?style=flat&logo=Linkedin&logoColor=white)](https://ng.linkedin.com/in/godspower-maurice-7bb48a23a)
 
 
 ### :hammer_and_wrench: Languages and Tools :
