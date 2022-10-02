@@ -13,25 +13,24 @@
     <h1>
   Hello World! I'm Godspower Maurice
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-            <h1>
-      A resilient Programmer 
-              <div align="center">
+            <h2>
+      A Resilient Programmer, I don't really care about the inessentials of life, lets keep it simple..!!
+---
+<div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 </h1>
-  </a>
-</div>
+
+
 
 ---
 
-
 # :man_technologist: About Me 
-## I am a Full Stack Software Developer, Ethical Hacker, Pentester and cloud Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+## I am a Full Stack Software Developer, Ethical Hacker, Pentester and Cloud Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 - :telescope: I’m Learning as full time Ethical Hacker and contributing to Securing Networks and web applications.
 - :seedling: Exploring the Tech World.
 - :zap: In my free time, I solve problems on **GeeksforGeeks** and read tech articles.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-godspower-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com)
----
 
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -55,14 +54,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
 </div>
 
----
+
 
 ## :fire: My GitHub Statistics 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SeasonLeague&theme=dark&hide_border=true&border_radius=4.9&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeasonLeague&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
----
+
   
   
 ### :writing_hand: Blog Posts :
