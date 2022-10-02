@@ -1,15 +1,19 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+  
   <div id="badges">
-    <a href="https://linkedin.com">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://facebook.com">
-      <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    </a>
-    <a href="https://wa.me/+2349127884963">
-      <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=twitter&logoColor=white" alt="WhatsApp Badge"/>
-      <img src="https://komarev.com/ghpvc/?username=SeasonLeague&style=flat-square&color=blue" alt=""/>
+  <a href="[https://linkedin.com/](https://ng.linkedin.com/in/godspower-maurice-7bb48a23a)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://facebook.com/">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+  <a href="https://wa.me/2349127884963">
+    <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
+  </a>
+</div>
       <h1>
         Hello World! I'm Godspower Maurice
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
