@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-  ![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)
+  ![](https://komarev.com/ghpvc/?username=SeasonLeague&color=dc143c)
   
   <div id="badges">
   <a href="[https://linkedin.com/](https://ng.linkedin.com/in/godspower-maurice-7bb48a23a)">
@@ -17,17 +17,15 @@
   </a>
   
 </div>
-      <h1>
-        Hello World! I'm Godspower Maurice
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-            <h2>
-      A Resilient Programmer, I don't really care about the inessentials of life, lets keep it simple..!!
----
+      <h3>
+ </div>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&height=100&lines=Hello+World%2C+my+name+is+Godspower+Maurice.;And+I+am+into%2C;+Cyber+Security%2C;Machine+Learning%2C;Software+Engineering%2C;Cloud+Infrastructure%2C;Artificial+Technologies+and+Engines%2C;And+Open+Source+Technologies;Am+Happy+you+read+my+ABOUTME;READ+AGAIN+LOL+:)" alt="Typing SVG" /></a></div>
+            
+      A Resilient Programmer, lets keep it simple..!!
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-</h1>
-
 
 
 ---
