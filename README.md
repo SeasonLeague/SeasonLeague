@@ -69,7 +69,7 @@
 
   
   
-### :writing_hand: Blog Posts :
+### :writing_hand: My Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-- [Test Post](https://anthempython.hashnode.dev)
+- [Visit My Blog Post](https://anthempython.hashnode.dev)
 <!-- BLOG-POST-LIST:END -->
