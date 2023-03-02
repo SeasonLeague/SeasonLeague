@@ -9,10 +9,10 @@
   <a href="[https://linkedin.com/](https://ng.linkedin.com/in/godspower-maurice-7bb48a23a)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://facebook.com/">
+  <a href="https://www.facebook.com/profile.php?id=100072870198172">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <a href="https://wa.me/2349127884963">
+  <a href="https://wa.me/+2349127884963?text=Hello%20my%20name%20is%20.....">
     <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
   </a>
   
@@ -21,7 +21,7 @@
  </div>
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&height=100&lines=Hello+World%2C+my+name+is+Godspower+Maurice.;And+I+am+into%2C;+Cyber+Security%2C;Machine+Learning%2C;Software+Engineering%2C;Cloud+Infrastructure%2C;Artificial+Technologies+and+Engines%2C;And+Open+Source+Technologies;Am+Happy+you+read+my+ABOUTME;READ+AGAIN+LOL+:)" alt="Typing SVG" /></a></div>
             
-      A Resilient Programmer, lets keep it simple..!!
+      I am a Resilient Technologist, lets keep it simple..!!
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -31,11 +31,11 @@
 ---
 
 # :man_technologist: About Me 
-## I am a Full Stack Software Developer, Ethical Hacker, Pentester and Cloud Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
-- :telescope: I’m Learning as full time Ethical Hacker and contributing to Securing Networks and web applications.
-- :seedling: Exploring the Tech World.
-- :zap: In my free time, I solve problems on **GeeksforGeeks** and read tech articles.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-godspower-blue?style=flat&logo=Linkedin&logoColor=white)](https://ng.linkedin.com/in/godspower-maurice-7bb48a23a)
+## I am a Full Stack Software Developer, AI/ML/IoT Engineer, Cyber Security Analyst, Red Teamer and Cloud Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+- :telescope: I’m currently learning Machine Learning and am also making solid contributions to Securing Networks and web applications.
+- :seedling: I see myself being part of one of the genuises making the planet earth a better place to live in using advanced technologies and Exploring the Tech World.
+- :zap: In my free time, I solve problems on **GeeksforGeeks** and write tech related articles on **HashNode**.
+- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-godspower-blue?style=flat&logo=Gmail&logoColor=red)](https://gmail.com) as **verbosetwomillion@gmail.com**
 
 
 ### :hammer_and_wrench: Languages and Tools :
