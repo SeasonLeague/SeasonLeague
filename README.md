@@ -31,10 +31,10 @@
 ---
 
 # :man_technologist: About Me 
-## I am a Full Stack Software Developer, AI/ML/IoT Engineer, Cyber Security Analyst, Red Teamer and Cloud Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
-- :telescope: I’m currently learning Machine Learning and am also making solid contributions to Securing Networks and web applications.
+## I am a Full Stack Software Developer, DL/ML/IoT Engineer, Data Analyst, Cyber Security Analyst, Red Teamer and Cloud Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+- :telescope: I’m currently learning Machine Learning, Data Analysis and am also making solid contributions to Securing Networks and web applications.
 - :seedling: I see myself being part of one of the genuises making the planet earth a better place to live in using advanced technologies and Exploring the Tech World.
-- :zap: In my free time, I solve problems on **GeeksforGeeks** and write tech related articles on **HashNode**.
+- :zap: In my free time, I read articles on **https://space.com**, solve coding challenges and write tech related articles on **HashNode**.
 - :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-godspower-blue?style=flat&logo=Gmail&logoColor=red)](https://gmail.com) as **verbosetwomillion@gmail.com**
 
 
