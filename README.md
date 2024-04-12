@@ -19,7 +19,7 @@
 </div>
       <h3>
  </div>
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&height=100&lines=Hello+World%2C+my+name+is+Godspower+Maurice.;And+I+am+into%2C;+Cyber+Security%2C;Machine+Learning%2C;Software+Engineering%2C;Cloud+Infrastructure%2C;Artificial+Technologies+and+Engines%2C;And+Open+Source+Technologies;Am+Happy+you+read+my+ABOUTME;READ+AGAIN+LOL+:)" alt="Typing SVG" /></a></div>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&height=100&lines=Hello+World%2C+my+name+is+Godspower+Maurice.;Machine+Learning%2C;Software+Engineering%2C;Artificial+Intelligence(AI)+and+Engines%2C;And+Open+Source+Technologies;Am+Happy+you+read+my+ABOUTME;READ+AGAIN+LOL+:)" alt="Typing SVG" /></a></div>
             
       I am a Resilient Technologist, lets keep it simple..!!
 
@@ -31,8 +31,8 @@
 ---
 
 # :man_technologist: About Me 
-## I'm a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
-- :telescope: I’m currently learning Machine Learning, Data Analysis and am also making solid contributions to Securing Networks and web applications.
+## I'm a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+- :telescope: I’m into Machine Learning, Data Analysis and am also making solid contributions to any Open Source Networks and web applications.
 - :seedling: I see myself being part of one of the genuises making the planet earth a better place to live in using advanced technologies and Exploring the Tech World.
 - :zap: In my free time, I read articles on **https://space.com**, solve coding challenges and write tech related articles on **HashNode**.
 - :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-godspower-blue?style=flat&logo=Gmail&logoColor=red)](https://gmail.com) as **verbosetwomillion@gmail.com**
@@ -41,10 +41,6 @@
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -56,7 +52,28 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original-wordmark.svg" title="Raspberrypi" alt="Raspberrypi" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="Chrome" alt="Chrome" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/appwrite/appwrite-original.svg" title="AppWrite" alt="Appwrite" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitpod/gitpod-original.svg" title="GitPod" alt="GitPod" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="Json" alt="Json" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" title="Kaggle" alt="Kaggle" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original.svg" title="Neo4j" alt="Neo4j" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="numpy" alt="numpy" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="Nuxt" alt="Nuxt" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pypi/pypi-original.svg" title="Pypi" alt="Pypi" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="ScikitLearn" alt="ScikitLearn" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" title="Vercel" alt="Vercel" width="40" height="40"/>&nbsp;
 </div>
 
 
@@ -69,7 +86,7 @@
 
   
   
-### :writing_hand: My Blog Posts :
+### :writing_hand: Visit this Blog Posts :
 <!-- BLOG-POST-LIST:START -->
 - [Test Post](https://dev.to/itszed0/test-post-490g)
 <!-- BLOG-POST-LIST:END -->
