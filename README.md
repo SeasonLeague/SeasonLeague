@@ -19,7 +19,7 @@
 </div>
       <h3>
  </div>
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&height=100&lines=Hello+World%2C+my+name+is+Godspower+Maurice.;Machine+Learning%2C;Software+Engineering%2C;Artificial+Intelligence(AI)+and+Engines%2C;And+Open+Source+Technologies;Am+Happy+you+read+my+ABOUTME;READ+AGAIN+LOL+:)" alt="Typing SVG" /></a></div>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&height=100&lines=Hello+World%2C+my+name+is+Godspower+Maurice.;I am+into+Machine+Learning%2C;Software+Engineering%2C;Artificial+Intelligence(AI)+and+Engines%2C;And+Open+Source+Technologies;Am+Happy+you+read+my+ABOUTME;READ+AGAIN+LOL+:)" alt="Typing SVG" /></a></div>
             
       I am a Resilient Technologist, lets keep it simple..!!
 
